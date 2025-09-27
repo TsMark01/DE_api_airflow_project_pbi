@@ -137,6 +137,7 @@ This is my first **Data Engineering (DE)** project, focused on building an ETL (
    airflow scheduler &
    airflow webserver &
    ```
+   Also, I recommend you to make deamons. 
 
    #### Check and Kill Conflicting Ports (if needed)
    If port 8793 or 8080 is in use:
@@ -146,6 +147,7 @@ This is my first **Data Engineering (DE)** project, focused on building an ETL (
    sudo kill -9 <PID>  # If necessary
    ```
 
+   
    Access the Airflow UI at `http://<your-ip>:8080`.
 
 4. **Configure API Access**
