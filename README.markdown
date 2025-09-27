@@ -158,6 +158,5 @@ This is my first **Data Engineering (DE)** project, focused on building an ETL (
 6. **Power BI**
    - Connect Power BI to PostgreSQL and load the dashboard, ensuring compliance with data privacy regulations.
 
-## 📝 License
 
-This project is licensed under the [MIT License](LICENSE). The repository contains no sensitive data, API keys, or passwords, ensuring secure sharing of the code. The non-public medical information system API requires authorized access, which is not included in this project.
+The repository contains no sensitive data, API keys, or passwords, ensuring secure sharing of the code. The non-public medical information system API requires authorized access, which is not included in this project.
